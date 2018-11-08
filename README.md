@@ -1,26 +1,26 @@
 # git-favs
 
-A Chrome extension to manage hand-picked favourite github projects
+A Chrome extension to manage hand-picked favourite cloud git projects
 
 ## WIP
 
 Features:
- - [ ] bookmark a repo as a github-fav
- - [ ] manage github-fav tags
- - [ ] keep github-favs among browser's bookmarks for cross-device sync
- - [ ] settings: change default github-fav bookmarks folder (use `.git-favs` to denote current dir)
+ - [ ] bookmark a repo as a git-fav
+ - [ ] manage git-fav tags
+ - [ ] keep git-favs among browser's bookmarks for cross-device sync
+ - [ ] settings: change default git-fav bookmarks folder (use `.git-favs` to denote current dir)
  - [ ] settings: optionally keep git-fav dir among browser's bookmarks bar
- - [ ] browse github-favs
- - [ ] browse and watch forks (parent, children, siblings)
- - [ ] search github-favs
- - [ ] filter github-favs per tags
- - [ ] read github-fav's unread notifications counter
- - [ ] clear github-fav's unread notifications counter
- - [ ] remove a github-fav
+ - [ ] browse git-favs
+ - [ ] browse and watch git-fav's forks (parent, children, siblings)
+ - [ ] search git-favs
+ - [ ] filter git-favs per tags
+ - [ ] read git-fav's unread notifications counter
+ - [ ] clear git-fav's unread notifications counter
+ - [ ] remove a git-fav
  - [ ] manage foldable extension UI widget
- - [ ] show unread notifications count for all github-favs
- - [ ] clear unread notifications count for all github-favs
- - [ ] preview a github-fav|all github-favs unread notifications
+ - [ ] show unread notifications count for all git-favs
+ - [ ] clear unread notifications count for all git-favs
+ - [ ] preview a git-fav|all git-favs unread notifications
  - [ ] support github, gitlab, bitbucket
  - [ ] detect and suggest existent git related bookmarks dir
 
